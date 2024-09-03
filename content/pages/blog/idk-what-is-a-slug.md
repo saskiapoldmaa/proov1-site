@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: DWCs
+title: DWC
 date: '2024-09-03'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
