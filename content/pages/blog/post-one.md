@@ -3,7 +3,6 @@ type: PostLayout
 title: Varia
 colors: colors-a
 date: '2021-06-28'
-author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
