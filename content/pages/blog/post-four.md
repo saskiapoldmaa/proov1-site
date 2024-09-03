@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: QDCs
+title: QDC
 colors: colors-a
 date: '2024-02-01'
 excerpt: More context that may or may not be helpful
