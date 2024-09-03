@@ -101,11 +101,9 @@ bottomSections:
       text:
         textAlign: left
 ---
-
-
 QDC is a charge to digital converter. This allows you to measure charge that flows through the QDC. 
 
-
+![](/images/qdc1.jpeg)
 
 The graph above depicts the current through the QDC. As you can see, the signal is not at completely 0 when there is no signal, this is due to the noise. For the noise to not contribute, we must pick a very specific integration window, so that only the charge that flew between t\_start and t\_end will be measured.
 
