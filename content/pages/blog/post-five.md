@@ -108,6 +108,6 @@ The threshold momentum is regulated by the pressure in the detector. The higher 
 
 To map out the momentum of the particles, i.e to measure their spectra, one needs to do a so-called pressure scan. For this, you only need one Cherenkov but you need to vary the pressure in it from maximum to minimum. This can be done by just pumping the detector full of air and waiting while taking measurements until it runs out slowly.
 
-During pressure scans, you usually measure the no. of particles in a spill that made the medium emit light. You can compare it to the total no. of particles in that spill, which is given by the trigger rate.
+During pressure scans, you usually measure the no. of particles in a spill that made the medium emit light. You can compare it to the total no. of particles in that spill, which is given by the trigger rate. ![](/images/cher1.png)
 
 The x-axis is pressure in the Cherenkov in bars. On the y-axis is the Cherenkov efficiency. Cherenkov efficiency is not really an efficiency, it is actually the ratio of particles that emit light to the total number of particles (trigger rate). As you can see, at a low pressure the threshold momentum is very high so there are few particles that actually get detected.Pressure scans are more useful after you've translated the x-axis from pressure to threshold momentum.Because particle energies usually follow a normal distribution, the 50% efficiency usually responds to the peak of the spectrum.![](/images/cher2.png)
