@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Cherenkov detectors
+title: Cherenkov detector
 colors: colors-b
 date: '2024-05-02'
 excerpt: more context
