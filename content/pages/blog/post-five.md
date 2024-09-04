@@ -107,6 +107,8 @@ Cherenkov detectors, also known by the abbreviation XCET, are gas-filled detecto
 
 The threshold momentum is regulated by the pressure in the detector. The higher the pressure, the higher the refractive index and the slower the light travels in that medium. Hence, to increase the threshold momentum for particles, you need to decrease the pressure.
 
+$\frac{1}{2}$
+
 When you combine two Cherenkov detectors at two different pressures, i.e., you have two different momentum cutoffs for particles to emit light, then you can identify all of the particles in the momentum range specified by the cutoff momenta of each of the detectors. A particle will fall into that momentum range if it emits light in one of the Cherenkov detectors but not in the other.
 
 To map out the momentum of all the particles in the beam, i.e., to measure a spectrum, you need to perform a so-called pressure scan. For this, only one Cherenkov detector is necessary, but you need to vary the pressure in it from the maximum to the minimum. This can be done by initially pumping the detector full of gas and taking measurements while it gradually depressurizes.
